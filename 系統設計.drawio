@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-11-19T08:03:17.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="qFoxorSP_zCq4p6f_ChJ" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-19T08:15:52.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="sSTKpdq1nRyB2RCqNC8p" version="22.1.3" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
-    <mxGraphModel dx="1303" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XSnT0I2E9s_Pdc4EKmwq-44" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.88;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="DQgmJm5E7RuLA71w_BIT-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="865" y="97" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="684" y="60" />
+              <mxPoint x="865" y="60" />
+              <mxPoint x="865" y="97" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XSnT0I2E9s_Pdc4EKmwq-45" value="&amp;nbsp; 潛在危險字眼的&amp;nbsp;&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;對話用戶的詳細資料" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XSnT0I2E9s_Pdc4EKmwq-44">
+          <mxGeometry x="-0.0883" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DQgmJm5E7RuLA71w_BIT-6" value="&lt;b&gt;D1&lt;/b&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="570" y="70" width="130" height="40" as="geometry" />
         </mxCell>
@@ -97,14 +112,30 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XSnT0I2E9s_Pdc4EKmwq-38" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="XSnT0I2E9s_Pdc4EKmwq-18" target="XSnT0I2E9s_Pdc4EKmwq-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSnT0I2E9s_Pdc4EKmwq-40" value="&amp;nbsp; 潛在危險字眼的&amp;nbsp;&amp;nbsp;&lt;br&gt;對話用戶" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XSnT0I2E9s_Pdc4EKmwq-38">
+          <mxGeometry y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XSnT0I2E9s_Pdc4EKmwq-18" value="4.0" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontFamily=Helvetica;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="700" y="275" width="120" height="80" as="geometry" />
+          <mxGeometry x="670" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XSnT0I2E9s_Pdc4EKmwq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="XSnT0I2E9s_Pdc4EKmwq-18" source="XSnT0I2E9s_Pdc4EKmwq-20" target="XSnT0I2E9s_Pdc4EKmwq-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XSnT0I2E9s_Pdc4EKmwq-20" value="檢視聊天&lt;br&gt;紀錄" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XSnT0I2E9s_Pdc4EKmwq-18">
           <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XSnT0I2E9s_Pdc4EKmwq-36" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=1;exitX=0.753;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XSnT0I2E9s_Pdc4EKmwq-21" target="XSnT0I2E9s_Pdc4EKmwq-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSnT0I2E9s_Pdc4EKmwq-37" value="&amp;nbsp; 聊天&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; 紀錄&amp;nbsp;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XSnT0I2E9s_Pdc4EKmwq-36">
+          <mxGeometry x="0.0229" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XSnT0I2E9s_Pdc4EKmwq-21" value="&lt;b&gt;D3&lt;/b&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="390" y="420" width="130" height="40" as="geometry" />
@@ -120,8 +151,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSnT0I2E9s_Pdc4EKmwq-27" value="機構" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="770" y="105" width="100" height="50" as="geometry" />
+        <mxCell id="XSnT0I2E9s_Pdc4EKmwq-27" value="適合的輔導機構" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="850" y="100" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XSnT0I2E9s_Pdc4EKmwq-30" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="XSnT0I2E9s_Pdc4EKmwq-28" target="XSnT0I2E9s_Pdc4EKmwq-4">
           <mxGeometry relative="1" as="geometry">
@@ -133,6 +164,35 @@
         </mxCell>
         <mxCell id="XSnT0I2E9s_Pdc4EKmwq-28" value="其他用戶" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XSnT0I2E9s_Pdc4EKmwq-46" value="5.0" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontFamily=Helvetica;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="840" y="400" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XSnT0I2E9s_Pdc4EKmwq-48" value="提醒用戶" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XSnT0I2E9s_Pdc4EKmwq-46">
+          <mxGeometry y="20" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XSnT0I2E9s_Pdc4EKmwq-55" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.645;entryY=-0.029;entryDx=0;entryDy=0;curved=1;exitX=0.683;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="XSnT0I2E9s_Pdc4EKmwq-20" target="XSnT0I2E9s_Pdc4EKmwq-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="300" as="sourcePoint" />
+            <mxPoint x="850" y="148" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XSnT0I2E9s_Pdc4EKmwq-56" value="&amp;nbsp; 潛在危險字眼的&amp;nbsp;&amp;nbsp;&lt;br&gt;對話用戶" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XSnT0I2E9s_Pdc4EKmwq-55">
+          <mxGeometry y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XSnT0I2E9s_Pdc4EKmwq-57" value="level 0 資料流程圖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="8" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XSnT0I2E9s_Pdc4EKmwq-58" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;MoodsChat App&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-450" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XSnT0I2E9s_Pdc4EKmwq-59" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;用戶&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-620" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XSnT0I2E9s_Pdc4EKmwq-60" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;機構&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-620" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
